@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 68235a19fd1f506438ea25816d3f24c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7624957595178619716
+    second: Ygys_0
+  - first:
+      213: -794820977324367715
+    second: Ygys_1
+  - first:
+      213: -5489857905042643716
+    second: Ygys_2
+  - first:
+      213: 9043230718777991775
+    second: Ygys_3
+  - first:
+      213: 5822054888808712126
+    second: Ygys_4
+  - first:
+      213: 7367044343001606876
+    second: Ygys_5
+  - first:
+      213: 8930981913349155156
+    second: Ygys_6
+  - first:
+      213: -3548744147820397345
+    second: Ygys_7
+  - first:
+      213: 2670778744657370109
+    second: Ygys_8
+  - first:
+      213: 7136290810758048405
+    second: Ygys_9
+  - first:
+      213: 5301914599003766996
+    second: Ygys_10
+  - first:
+      213: 1478861363683363253
+    second: Ygys_11
+  - first:
+      213: -3440755402715732755
+    second: Ygys_12
+  - first:
+      213: -5926379940664088373
+    second: Ygys_13
+  - first:
+      213: 1529590368972502056
+    second: Ygys_14
+  - first:
+      213: 1900975407687873839
+    second: Ygys_15
+  - first:
+      213: 7130032937164897782
+    second: Ygys_16
+  - first:
+      213: 4061371191539437381
+    second: Ygys_17
+  - first:
+      213: -631866189670206841
+    second: Ygys_18
+  - first:
+      213: 6767150119058900233
+    second: Ygys_19
+  - first:
+      213: 425496935244617908
+    second: Ygys_20
+  - first:
+      213: -5957386020234747573
+    second: Ygys_21
+  - first:
+      213: 6057756696335685265
+    second: Ygys_22
+  - first:
+      213: -6210059089679829901
+    second: Ygys_23
+  - first:
+      213: 1726093275753581332
+    second: Ygys_24
+  - first:
+      213: -3907992425661556358
+    second: Ygys_25
+  - first:
+      213: 4052439556983824503
+    second: Ygys_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ygys_0
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 4662
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc26f74775be2690800000000000000
+      internalID: -7624957595178619716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906d82488a38f4f0800000000000000
+      internalID: -794820977324367715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_2
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf42096625b10d3b0800000000000000
+      internalID: -5489857905042643716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_3
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52a9a6fc62008d70800000000000000
+      internalID: 9043230718777991775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_4
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7054623181cc050800000000000000
+      internalID: 5822054888808712126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda69253ccffc3660800000000000000
+      internalID: 7367044343001606876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_6
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4596d985bb831fb70800000000000000
+      internalID: 8930981913349155156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_7
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc3b66eff350cec0800000000000000
+      internalID: -3548744147820397345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_8
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb57fc2e13801520800000000000000
+      internalID: 2670778744657370109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a2e15cea2390360800000000000000
+      internalID: 7136290810758048405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_10
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c31fac3f249940800000000000000
+      internalID: 5301914599003766996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_11
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9856e2398f58410800000000000000
+      internalID: 1478861363683363253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_12
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de46f1ee03bff30d0800000000000000
+      internalID: -3440755402715732755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc867b0e7d441cda0800000000000000
+      internalID: -5926379940664088373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_14
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824f67226523a3510800000000000000
+      internalID: 1529590368972502056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_15
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f253dfdbf0f916a10800000000000000
+      internalID: 1900975407687873839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_16
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd7c880e27f2f260800000000000000
+      internalID: 7130032937164897782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f86b4a493ec5830800000000000000
+      internalID: 4061371191539437381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_18
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b02b5c092b37f0800000000000000
+      internalID: -631866189670206841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_19
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058f3ced2fb9ed50800000000000000
+      internalID: 6767150119058900233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_20
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8d54e453ba7e500800000000000000
+      internalID: 425496935244617908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a70a6afc135da0800000000000000
+      internalID: -5957386020234747573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_22
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19615d4be99711450800000000000000
+      internalID: 6057756696335685265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_23
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374b275092071d9a0800000000000000
+      internalID: -6210059089679829901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_24
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8b7660b054f710800000000000000
+      internalID: 1726093275753581332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a799683289504c9c0800000000000000
+      internalID: -3907992425661556358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ygys_26
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77023cb6e482d3830800000000000000
+      internalID: 4052439556983824503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

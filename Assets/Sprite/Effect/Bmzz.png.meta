@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 01528f2a32dd2d84b8ee097343168d6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2761372949969910797
+    second: Bmzz_0
+  - first:
+      213: -1345592716420213151
+    second: Bmzz_1
+  - first:
+      213: 6624665493028158368
+    second: Bmzz_2
+  - first:
+      213: -5854552732998816976
+    second: Bmzz_3
+  - first:
+      213: 6072363331497721470
+    second: Bmzz_4
+  - first:
+      213: 9195118112478626925
+    second: Bmzz_5
+  - first:
+      213: 793440370686378897
+    second: Bmzz_6
+  - first:
+      213: -3222185028099517013
+    second: Bmzz_7
+  - first:
+      213: 5528282699071960528
+    second: Bmzz_8
+  - first:
+      213: 2914810514599932741
+    second: Bmzz_9
+  - first:
+      213: 3471238541866516599
+    second: Bmzz_10
+  - first:
+      213: -95457205131498272
+    second: Bmzz_11
+  - first:
+      213: -5144890659529796536
+    second: Bmzz_12
+  - first:
+      213: -7362413451790751514
+    second: Bmzz_13
+  - first:
+      213: -4969568741901210057
+    second: Bmzz_14
+  - first:
+      213: 6610037889722220134
+    second: Bmzz_15
+  - first:
+      213: -347939942926511421
+    second: Bmzz_16
+  - first:
+      213: 2971857885007759776
+    second: Bmzz_17
+  - first:
+      213: -3221946434818487542
+    second: Bmzz_18
+  - first:
+      213: 1052011139693285187
+    second: Bmzz_19
+  - first:
+      213: -5762756503040187754
+    second: Bmzz_20
+  - first:
+      213: 3112170620658780733
+    second: Bmzz_21
+  - first:
+      213: 3871233605856048352
+    second: Bmzz_22
+  - first:
+      213: -8388883340198690769
+    second: Bmzz_23
+  - first:
+      213: -8520103892379790535
+    second: Bmzz_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bmzz_0
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3cba0bee1ada9d0800000000000000
+      internalID: -2761372949969910797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669b6dbd8e735de0800000000000000
+      internalID: -1345592716420213151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_2
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3bbbba2a8feb50800000000000000
+      internalID: 6624665493028158368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_3
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b20dede4370cea0800000000000000
+      internalID: -5854552732998816976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_4
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e7709f64e554450800000000000000
+      internalID: 6072363331497721470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648c0a943f9b9f70800000000000000
+      internalID: 9195118112478626925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_6
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193473530ddd20b00800000000000000
+      internalID: 793440370686378897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_7
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5db8fe9cf7843d0800000000000000
+      internalID: -3222185028099517013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_8
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53f1023d768bc40800000000000000
+      internalID: 5528282699071960528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437d4e38bc737820800000000000000
+      internalID: 2914810514599932741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_10
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770499aff015c2030800000000000000
+      internalID: 3471238541866516599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_11
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca2ec7d2edcaef0800000000000000
+      internalID: -95457205131498272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_12
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8445086343da998b0800000000000000
+      internalID: -5144890659529796536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8647c29f373d990800000000000000
+      internalID: -7362413451790751514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_14
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ee7142f8b880bb0800000000000000
+      internalID: -4969568741901210057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_15
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef3c070729bbb50800000000000000
+      internalID: 6610037889722220134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_16
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c212b2277edb2bf0800000000000000
+      internalID: -347939942926511421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c4d630092e3920800000000000000
+      internalID: 2971857885007759776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_18
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bce43c9c85943d0800000000000000
+      internalID: -3221946434818487542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_19
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0c29ce8e799e00800000000000000
+      internalID: 1052011139693285187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_20
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a73d2e739600b0800000000000000
+      internalID: -5762756503040187754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a06c4c0b6a03b20800000000000000
+      internalID: 3112170620658780733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_22
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ba9f247269b530800000000000000
+      internalID: 3871233605856048352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_23
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c34d5c03b49b80800000000000000
+      internalID: -8388883340198690769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bmzz_24
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933974db6a282c980800000000000000
+      internalID: -8520103892379790535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

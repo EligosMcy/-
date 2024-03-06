@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: b24ed98b8d6c1f74f8166e672eb4cf55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 853310606104103575
+    second: Cmlx_0
+  - first:
+      213: 1144105528792484819
+    second: Cmlx_1
+  - first:
+      213: -3663108787910423121
+    second: Cmlx_2
+  - first:
+      213: 3666416583735662198
+    second: Cmlx_3
+  - first:
+      213: -6294066441406672381
+    second: Cmlx_4
+  - first:
+      213: 7054377706676525084
+    second: Cmlx_5
+  - first:
+      213: 7415073189012094793
+    second: Cmlx_6
+  - first:
+      213: -6651439073822292348
+    second: Cmlx_7
+  - first:
+      213: 838084600182355792
+    second: Cmlx_8
+  - first:
+      213: -2713949356696717863
+    second: Cmlx_9
+  - first:
+      213: 402744766290980573
+    second: Cmlx_10
+  - first:
+      213: -8745054789814080524
+    second: Cmlx_11
+  - first:
+      213: -5266986612545928361
+    second: Cmlx_12
+  - first:
+      213: -7984798619273505687
+    second: Cmlx_13
+  - first:
+      213: -6864402842546792966
+    second: Cmlx_14
+  - first:
+      213: 2144388073798607532
+    second: Cmlx_15
+  - first:
+      213: -367079688688142252
+    second: Cmlx_16
+  - first:
+      213: -3525199151473837997
+    second: Cmlx_17
+  - first:
+      213: -8227261078661731142
+    second: Cmlx_18
+  - first:
+      213: -5104115367142704962
+    second: Cmlx_19
+  - first:
+      213: 4505788142266335470
+    second: Cmlx_20
+  - first:
+      213: -4233210806119167287
+    second: Cmlx_21
+  - first:
+      213: 6937311295505691146
+    second: Cmlx_22
+  - first:
+      213: 5509914521334939801
+    second: Cmlx_23
+  - first:
+      213: -2873956633875838158
+    second: Cmlx_24
+  - first:
+      213: 8863564437383116591
+    second: Cmlx_25
+  - first:
+      213: -6116130754468853067
+    second: Cmlx_26
+  - first:
+      213: -4090165627986261648
+    second: Cmlx_27
+  - first:
+      213: -709647706542964924
+    second: Cmlx_28
+  - first:
+      213: 5750692345043545318
+    second: Cmlx_29
+  - first:
+      213: 1036029089971379824
+    second: Cmlx_30
+  - first:
+      213: 7897680754890600840
+    second: Cmlx_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cmlx_0
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a88e7a97197db00800000000000000
+      internalID: 853310606104103575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_1
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8c3daaeda0ef00800000000000000
+      internalID: 1144105528792484819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_2
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 3996
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadccf227f50a2dc0800000000000000
+      internalID: -3663108787910423121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6765a28157ab1e230800000000000000
+      internalID: 3666416583735662198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_4
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3029f3f3bebf6a8a0800000000000000
+      internalID: -6294066441406672381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_5
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1893e5062f26e160800000000000000
+      internalID: 7054377706676525084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_6
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb69657c1a7e660800000000000000
+      internalID: 7415073189012094793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_7
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 3330
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864ba7376751b3a0800000000000000
+      internalID: -6651439073822292348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0573895e08971ab00800000000000000
+      internalID: 838084600182355792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_9
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d531bf607d165ad0800000000000000
+      internalID: -2713949356696717863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_10
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeebe92b36d69500800000000000000
+      internalID: 402744766290980573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_11
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbadcf700353a680800000000000000
+      internalID: -8745054789814080524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_12
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 2664
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7534672e497e7e6b0800000000000000
+      internalID: -5266986612545928361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645c2706fb403190800000000000000
+      internalID: -7984798619273505687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_14
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af511dedbfdbcb0a0800000000000000
+      internalID: -6864402842546792966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_15
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a957779562cd10800000000000000
+      internalID: 2144388073798607532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_16
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587b7fc7fed7eaf0800000000000000
+      internalID: -367079688688142252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_17
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 1998
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b4ed8c0af31fc0800000000000000
+      internalID: -3525199151473837997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc68fb83a5e2dd80800000000000000
+      internalID: -8227261078661731142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_19
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8b8d8cd1a8a29b0800000000000000
+      internalID: -5104115367142704962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_20
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c3f45176c78e30800000000000000
+      internalID: 4505788142266335470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_21
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca0ce9433d9045c0800000000000000
+      internalID: -4233210806119167287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_22
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 1332
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fbe82ed7464060800000000000000
+      internalID: 6937311295505691146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9908fea7016277c40800000000000000
+      internalID: 5509914521334939801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_24
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b04f91ba7ad18d0800000000000000
+      internalID: -2873956633875838158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_25
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27710605e4b10b70800000000000000
+      internalID: 8863564437383116591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_26
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baca04cb732f1ba0800000000000000
+      internalID: -6116130754468853067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_27
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 666
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079cd5f2800dc37c0800000000000000
+      internalID: -4090165627986261648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff5d7bb23d626f0800000000000000
+      internalID: -709647706542964924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_29
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece0e628309ecf40800000000000000
+      internalID: 5750692345043545318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_30
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e17bcd7f6b06e00800000000000000
+      internalID: 1036029089971379824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cmlx_31
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 0
+        width: 1187
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88171b88dc23a9d60800000000000000
+      internalID: 7897680754890600840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

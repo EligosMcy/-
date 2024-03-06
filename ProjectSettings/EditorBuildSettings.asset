@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainFirst.unity
+    guid: 541441012a004ba44b8f3086dee28aac
+  - enabled: 1
+    path: Assets/Scenes/UIMain.unity
+    guid: eb65f15eca52327478f550b4df5cb638
+  - enabled: 1
+    path: Assets/Scenes/YGYS.unity
+    guid: f27e29bc6c2475d43b50cc8eb2d999cf
+  - enabled: 1
+    path: Assets/Scenes/BMZZ.unity
+    guid: c2fbff108d6504946a4a102139216f8b
+  - enabled: 1
+    path: Assets/Scenes/FJQZ.unity
+    guid: ec6855f495701704898a8793206395f1
+  - enabled: 1
+    path: Assets/Scenes/CMLX.unity
+    guid: f7f4d2376d570ed4885a7737ad580750
+  - enabled: 1
+    path: Assets/Scenes/Poetry1.unity
+    guid: 4e0676c1138e6dc4191b0440e8ec10fc
+  - enabled: 1
+    path: Assets/Scenes/Poetry2.unity
+    guid: cee98d7177b1d60428135ffbf8284cc8
+  - enabled: 1
+    path: Assets/Scenes/Poetry3.unity
+    guid: e3e149ca4b27b784d864cfd43e8263fb
+  - enabled: 1
+    path: Assets/Scenes/Poetry4.unity
+    guid: 98ee1a64ec53b274c9e4d771657e36a9
+  m_configObjects: {}

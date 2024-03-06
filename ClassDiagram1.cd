@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudioManager" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAUQAAAAUCAAQAAgAAAAQEA=</HashCode>
+      <FileName>Assets\Scrips\Manager\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BhManager" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAGAAAAQAAAAQEgBAAABAAAAIRAAAECAAQEQ=</HashCode>
+      <FileName>Assets\Scrips\Manager\BhManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraManager" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAyAEAAAAjAAAAAAIAAAAIAEAIBAAQAASAQCAAAAQFA=</HashCode>
+      <FileName>Assets\Scrips\Manager\CameraManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnvManager" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAAIAAAAAACAAAAAAAAAAABAAAAAYAAAACQAAEA=</HashCode>
+      <FileName>Assets\Scrips\Manager\EnvManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUCIPgCIACAAAAQEAAAA4BggAAhAAgAASAQAgQEABEI=</HashCode>
+      <FileName>Assets\Scrips\Manager\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineManager" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAACAAAgAAAAAAABAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scrips\Manager\LineManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NamePlane" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAACAAADEAFAAAAAACIAIBAABAEDQBwABEgAQAAEA=</HashCode>
+      <FileName>Assets\Scrips\Manager\NamePlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickBoxManager" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAEAABBAAEAAQAAAAAgAAEA=</HashCode>
+      <FileName>Assets\Scrips\Manager\PickBoxManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypeManager" Collapsed="true">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAABBAAAASAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scrips\Manager\TypeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAABAAAAAYAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scrips\Manager\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackBox" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Other\BackBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Door" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAECAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Other\Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EFAudio" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Other\EFAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Effect" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAA=</HashCode>
+      <FileName>Assets\Scrips\Other\Effect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConf" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAqCSIBgCCgIgRaFAgsgQSCAAAciCjAAADAcxAMAE=</HashCode>
+      <FileName>Assets\Scrips\Other\GameConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickFlag" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgCgAAEAAAAAAAAAAAAAAEAAAAAAIAAAggAEAEA=</HashCode>
+      <FileName>Assets\Scrips\Other\PickFlag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickupBox" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACgAAAAAAAAAIgAAAAIAEAAAAABAAAAAQBACEA=</HashCode>
+      <FileName>Assets\Scrips\Other\PickupBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIQYABMBAIMgACQAAACABAAAAGAAgQAABAAoIAEMAEA=</HashCode>
+      <FileName>Assets\Scrips\Other\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stroke" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAQAAAAAABABAAAAAAAIAAAACEAQAAAE=</HashCode>
+      <FileName>Assets\Scrips\Other\Stroke.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trail" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAgAAAEAAAAAAAAACAIAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Other\Trail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypeEffect" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAIAAAACAAAQAAAAAAAAACAQAAAAAEA=</HashCode>
+      <FileName>Assets\Scrips\Other\TypeEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worry" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Other\Worry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lotusDestory" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAECAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\lotusDestory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseMove" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAABAEIAAAAAAACAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\MouseMove.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MouseMove1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAABAEIAAAAAAACAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\MouseMove1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Poetry1" Collapsed="true">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQACAAAwCAIIAAsQCAAAEAECkQAEIYACAgEQAEI8AA=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\Poetry1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poetry2" Collapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAgCAYIAAsQCAAAAAECkAAEIYACAAAQAAB4AA=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\Poetry2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poetry3" Collapsed="true">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAgCAYIAAswCAAAAAECkAAEIYACAAAQAAA4AA=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\Poetry3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poetry4" Collapsed="true">
+    <Position X="7" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAgCAYIgAsQCAAACAECkAAEIcACAAAAAAJoEg=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\Poetry4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecondPoetry" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAQCAAIAAAQCAAAAAECkQAEIIAAAgEAAEIAAA=</HashCode>
+      <FileName>Assets\Scrips\PoetryScrips\SecondPoetry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBtn" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAABAAAAAEAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\UIMain\UIBtn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIMain" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAAAACAACAAAAQAAAAAAAAAAGAAAACCAAEAAAAA=</HashCode>
+      <FileName>Assets\Scrips\UIMain\UIMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UISeting" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAEAAAAAAAAAAAAAAAAAAAIAAEAAAgAEA=</HashCode>
+      <FileName>Assets\Scrips\UIMain\UISeting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Hanzi" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYQMAAAQCQAAAAAAABBAgAAgAAAAAAAgACAAAEACAA=</HashCode>
+      <FileName>Assets\Scrips\Manager\BhManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Guanka" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACAAAAAEAAABAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scrips\Manager\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LineName" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAABAA=</HashCode>
+      <FileName>Assets\Scrips\Manager\LineManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
